@@ -1,12 +1,12 @@
-# Hi, ich bin Pesho! 👋
+# Hi, i am Pesho! 
 
-Willkommen auf meinem GitHub-Profil! Ich bin ein Entwickler mit Leidenschaft für Backend-Entwicklung, Datenbanken und moderne Web-Technologien.
+Welcome to my GitHub profile. I am a young developer and work on backend and frontend projects. I have and use many different tools and enjoy trying out new ones. If you have any questions or tips, please get in touch :)
 
 ---
 
 ## 💻 Tech Stack
 
-### Sprachen
+### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -15,12 +15,12 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein Entwickler mit Leidenschaft fü
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
-### Datenbanken
+### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### Tools & Sonstiges
+### Tools & etc
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
