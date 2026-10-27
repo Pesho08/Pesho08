@@ -1,6 +1,9 @@
-# Hi, i am Pesho! 
+# Hi, my developer name is Pesho! 
+## And I am a...
+![Full-Stack Developer](https://svg.xul.is/typing/-%3E/Full-Stack+Developer;Lifeguard;Gamer+by+heart;Motorcycle+driver?layout=ide&color=green&font=sans&cursor=underscore&erase=select&typo=true&anim=sheen)
 
-Welcome to my GitHub profile. I am a young developer and work on backend and frontend projects. I have and use many different tools and enjoy trying out new ones. If you have any questions or tips, please get in touch :)
+As you saw, I do a lot in my freetime and I really enjoy it. I learn from the world everyday and in new shapes and colors. I hope those who dont will in the future as I do...
+
 
 ---
 # Tech Stack
@@ -9,4 +12,4 @@ Welcome to my GitHub profile. I am a young developer and work on backend and fro
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote by Edsger W. Dijkstra](https://svg.xul.is/quote/Edsger+W.+Dijkstra/%E2%80%9EThe+competent+programmer+is+fully+aware+of+the+limited+size+of+his+own+skull.+He+therefore+approaches+his+task+with+full+humility,+and+avoids+clever+tricks+like+the+plague.%E2%80%9C?color=lime&anim=sheen)
